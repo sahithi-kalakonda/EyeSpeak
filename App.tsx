@@ -7,6 +7,7 @@ import {
   Text,
   Pressable,
 } from 'native-base';
+
 import {Alert, StyleSheet, ToastAndroid, View} from 'react-native';
 import GradientText from './components/GradientText';
 import {Asset, launchImageLibrary} from 'react-native-image-picker';
